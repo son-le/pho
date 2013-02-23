@@ -1,0 +1,13 @@
+{
+  "name": "pho",
+  "version": "0.0.0-dev",
+  "description": "Delicious functions for the hungry node.js developer.",
+  "main": "lib/pho.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/son-le/pho.git"
+  },
+  "author": "Son T. Le <sillyson@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
