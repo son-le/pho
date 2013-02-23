@@ -1,0 +1,8 @@
+* text=auto
+
+*.npmignore text
+*.sublime-project text
+
+*.md    text
+*.js    text
+*.json  text
