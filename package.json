@@ -9,5 +9,12 @@
   },
   "author": "Son T. Le <sillyson@gmail.com>",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "underscore": ">=0.6.0"
+  },
+  "devDependencies": {
+    "underscore": "~1.4.4",
+    "mocha": "~1.8.1"
+  }
 }
