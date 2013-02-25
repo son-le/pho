@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "underscore": "~1.4.4",
-    "mocha": "~1.8.1"
+    "mocha": "~1.8.1",
+    "expect.js": "~0.2.0"
   }
 }
