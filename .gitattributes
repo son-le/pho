@@ -3,6 +3,8 @@
 *.npmignore text
 *.sublime-project text
 
+*.cmd   text
+
 *.md    text
 *.js    text
 *.json  text
