@@ -44,4 +44,6 @@ is equivalent to
 Changelog
 -------------------------------------------------------------------------------
 
++ 0.1.1 - Remove shrinkwrap file.
+
 + 0.1.0 - Initial release.
