@@ -1,7 +1,7 @@
 {
   "name": "pho",
-  "version": "0.0.0-dev",
-  "description": "Delicious functions for the hungry node.js developer.",
+  "version": "0.1.0",
+  "description": "Delicious functions for Node developers.",
   "main": "lib/pho.js",
   "repository": {
     "type": "git",
